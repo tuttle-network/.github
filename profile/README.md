@@ -23,6 +23,8 @@ The repositories in this organization are forks of the free software we run. App
 | Repository | Upstream | License |
 | --- | --- | --- |
 | [immich](https://github.com/tuttle-network/immich) | [immich-app/immich](https://github.com/immich-app/immich) | AGPL-3.0 |
+| [element-web](https://github.com/tuttle-network/element-web) | [element-hq/element-web](https://github.com/element-hq/element-web) | AGPL-3.0 |
+| [tuwunel](https://github.com/tuttle-network/tuwunel) | [matrix-construct/tuwunel](https://github.com/matrix-construct/tuwunel) | Apache-2.0 |
 
 A fork is not the original project. Application bugs and fixes belong upstream.
 
