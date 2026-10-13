@@ -5,8 +5,7 @@
 <h1 align="center">The Tuttle Network</h1>
 
 <p align="center">
-  <strong>Le réseau résistant.</strong><br>
-  The network holds.
+  <strong>The network holds.</strong>
 </p>
 
 <p align="center">
@@ -15,18 +14,18 @@
   <a href="mailto:contact@tuttle.network">contact@tuttle.network</a>
 </p>
 
-Infrastructure numérique privée — messagerie, accès sécurisé, communications — construite et administrée sans intermédiaire.
+Private digital infrastructure — mail, secure access, communications — built and run without an intermediary.
 
-## Dépôts publics
+## Public repositories
 
-Les dépôts de cette organisation sont des forks des logiciels libres que nous exploitons. Le code applicatif suit la version upstream. La configuration de build et de déploiement reste privée.
+The repositories in this organization are forks of the free software we run. Application code tracks the upstream release. Build and deployment configuration stays private.
 
-| Dépôt | Upstream | Licence |
+| Repository | Upstream | License |
 | --- | --- | --- |
 | [immich](https://github.com/tuttle-network/immich) | [immich-app/immich](https://github.com/immich-app/immich) | AGPL-3.0 |
 
-Un fork n’est pas le projet d’origine. Les anomalies et les correctifs applicatifs se traitent upstream.
+A fork is not the original project. Application bugs and fixes belong upstream.
 
 ## Contact
 
-[tuttle.network](https://tuttle.network). L’accès à l’infrastructure se fait sur invitation.
+[tuttle.network](https://tuttle.network). Access to the infrastructure is by invitation.
