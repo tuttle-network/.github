@@ -1,3 +1,3 @@
 # The Tuttle Network
 
-Le profil public de l’organisation est dans [`profile/README.md`](profile/README.md).
+The public organization profile is [`profile/README.md`](profile/README.md).
