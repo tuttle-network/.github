@@ -5,8 +5,8 @@
 <h1 align="center">The Tuttle Network</h1>
 
 <p align="center">
-  <strong>Votre réseau. Vos règles.</strong><br>
-  Your network. Your rules.
+  <strong>Le réseau résistant.</strong><br>
+  The network holds.
 </p>
 
 <p align="center">
